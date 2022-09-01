@@ -1,6 +1,8 @@
 
 # Music Player
 
+Para acessar o app [Clique Aqui](https://play-song-app.netlify.app/)
+
 Este é um player de música básico; com funcções de iniciar,
 pausar, avançar e voltar músicas.
 E outras opções incluídas!
